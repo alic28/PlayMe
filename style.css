@@ -1,0 +1,10 @@
+.banner {
+    background-image: url('images/guitar1.jpg');
+    background-size:cover;
+    height: 40vh;
+}
+.banner2 {
+    background-image: url('images/guitar2.jpg');
+    background-size:cover;
+    height: 40vh;
+}
